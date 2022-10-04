@@ -15,9 +15,12 @@ module.exports = {
         "border-color": "#dadde1",
         "button-color": "#42b72a",
       },
-
       lineHeight: {
         48: "48px",
+      },
+
+      screens: {
+        smartphones: "320px",
       },
     },
   },
